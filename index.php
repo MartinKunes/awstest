@@ -19,7 +19,7 @@
                         <img src="img/logo4.png" alt="" width="180" height="40" class="d-inline-block align-text-top">
                         <div class="card-body">
                             <p class=" mb-5">Pro přihlášení vyplňte svůj e-mail a heslo</p>
-                            <form action="register.php" method="post">
+                            <form action="registerC.php" method="post">
                                 <div class="mb-3">
                                     <label for="email">Email</label>
                                     <input type="email" id="email" class="form-control" name="email" />
